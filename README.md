@@ -18,5 +18,14 @@
 7. Final Results and Analysis
 
 # Outputs
+A look at some of the outputs produced.
+
+![adagrad_output](https://github.com/adhr1t/Painting_Style_Transfer/assets/72672768/b17c5fa8-cace-46cb-addf-9dacfce7e919)
+![basic_Gen_basic_Desc_output](https://github.com/adhr1t/Painting_Style_Transfer/assets/72672768/853b41b1-7eb7-47b1-8201-1f9f9895290d)
+![new_G_new_D_output](https://github.com/adhr1t/Painting_Style_Transfer/assets/72672768/ea7bebc7-2484-4406-89c4-371226fc5489)
+
+Not too shabby !
+
+
 
 
