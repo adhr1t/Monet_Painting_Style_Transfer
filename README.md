@@ -4,3 +4,5 @@
 - CycleGAN is a type of GAN that couples two GANs together – two Generator networks, and two Discriminator networks. The purpose of this GAN architecture is to capture the style and texture of many images, and successfully commit Style Transfer to multiple target images, without needing image pairs. Further details under Section 1.3 of ProjectPaper.pdf.
 
 # Approach
+1. Monet and landscape image data is loaded, analyzed, and preprocessed (resizing and optionally normalized to create consistent inputs for our Neural Network)
+2.  
