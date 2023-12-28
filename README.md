@@ -14,7 +14,7 @@
 3. CycleGAN architecture is built
 4. CycleGAN training (loss functions over time visualized to ensure proper training)
 5. Hyperparameter Tuning
-6. Alternative Loss and Optimizer functions (RMSProp, SGD, AdaGrad, Adam)
+6. Optimizer and Loss function testing (RMSProp, SGD, AdaGrad, Adam)
 7. Final Results and Analysis
 
 # Outputs
