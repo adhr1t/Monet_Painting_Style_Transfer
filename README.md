@@ -5,4 +5,9 @@
 
 # Approach
 1. Monet and landscape image data is loaded, analyzed, and preprocessed (resizing and optionally normalized to create consistent inputs for our Neural Network)
-2.  
+2. Model Building Blocks are established (Generator & Discriminator Network architecture creation and weight initialization function instantiation)
+3. CycleGAN architecture is built
+4. CycleGAN training (loss functions over time visualized to ensure proper training)
+5. Hyperparameter Tuning
+6. Alternative Loss and Optimizer functions
+7. Final Results and Analysis
