@@ -26,6 +26,7 @@ A look at some of the outputs produced.
 
 Not too shabby !
 
-
+# Conclusion
+Generative AI is something that is deeply interesting to me because it has such an important practical application to the ever changing landscape of Machine Learning. Whether it be image data augmentation, text-to-image generation, or transfering your favorite artist's painting style onto standard images, Generative AI is extremely interesting and has exponentially growing applications. I have learned a huge amount throughout the course of this project and I am very satisified with the results this CycleGAN was able to produce. It's definitely a better painter than me !
 
 
